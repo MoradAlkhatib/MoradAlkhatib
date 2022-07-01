@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoradAlkhatib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HTML,Css...;JavaScript,React.js,Node.js..;Python,Django,Rest_Framework..;NoSql,Sql,Plsql.)](https://git.io/typing-svg)
