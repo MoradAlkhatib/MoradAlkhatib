@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScriptReact.jsNode.js)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=PythonDjangoRest_Framework)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DataBasesNunSql/SqlPlsql)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=GitGitHubCLIcommands)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScript,React.js,Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Python,Django,Rest_Framework)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DataBasesNunSql,Sql,Plsql)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Git,GitHub,CLIcommands)](https://git.io/typing-svg) 
 ![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
