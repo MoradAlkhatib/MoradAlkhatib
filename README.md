@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScriptReact.jsNode.jssssssssssssssssssssssssssssssssssssssssbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbssssssss)](https://git.io/typing-svg)
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Python Django Rest_Framework SQL)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScriptReact.jsNode.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=PythonDjangoRest_FrameworkSQL)](https://git.io/typing-svg) 
 
