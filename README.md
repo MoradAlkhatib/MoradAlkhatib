@@ -1,5 +1,10 @@
 <h1 align="center">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</h1>
 
+<h2 align="center" style="color:red;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Morad,+25years!+👋;Programmer+TeacherAssitant+Love-Learning-Gaming....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h2>
 <!--
 **MoradAlkhatib/MoradAlkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
