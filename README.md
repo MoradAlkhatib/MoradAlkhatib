@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoradAlkhatib)](https://github.com/anuraghazra/github-readme-stats)
-<img src=“https://raw.githubusercontent.com/<username>/<username>/master/header.svg”/>
+
 ![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines==MoradHTMLCSSJavaScriptReact.jsNode.jsPythonDjangoNonSQLSQLPLSQL)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScript React.js Python Sql)](https://git.io/typing-svg)
