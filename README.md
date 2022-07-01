@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Morad-->HTML-->CSS-->JavaScript-->React.js-->Node.js-->Python-->Django-->NonSQL-->SQL-->PLSQL)](https://git.io/typing-svg)
 <!--
 **MoradAlkhatib/MoradAlkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoradAlkhatib)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src=“https://raw.githubusercontent.com/<username>/<username>/master/header.svg”/>
 ![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
+
