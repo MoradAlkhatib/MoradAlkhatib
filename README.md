@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=JavaScriptReact.jsNode.js)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=PythonDjangoRest_Framework)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DataBasesNunSql/SqlPlsql)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=GitGitHubCLIcommands)](https://git.io/typing-svg) 
+![morad github stats](https://github-readme-stats.vercel.app/api?username=MoradAlkhatib&show_icons=true&theme=dracula&hide=stars,issues)
