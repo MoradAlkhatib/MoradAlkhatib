@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center" style="color:red;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Morad,+25years!+👋;LoveLearnTeacherAssitant..;Love->Learning,Teaching....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Morad,+25years!+👋;TeacherAssitant..;Love->Learning,Teaching....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h2>
 
