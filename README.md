@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</p>
+<h1 align="center">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</h1>
 
 <!--
 **MoradAlkhatib/MoradAlkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
